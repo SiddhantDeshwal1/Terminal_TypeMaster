@@ -43,7 +43,7 @@ string getRandomWord(const vector<string> &dictionary)
 int checkWordAccuracy(const string &word)
 {
   string command =
-      "/home/siddhantdeshwal/Typing-Pro/Spell_Checker/spellchecker " + word +
+      "/home/siddhantdeshwal/TypeMaster_CLI/Spell_Checker/spellchecker " + word +
       " > score.txt";
   system(command.c_str());
 
