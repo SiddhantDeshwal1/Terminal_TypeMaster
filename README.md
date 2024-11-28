@@ -115,6 +115,10 @@
   <li>Edit the source code to add your own features or further optimize the performance!</li>
 </ul>
 
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/a3ce5260-4c0b-4a95-9c6f-b9824ea510aa
+
 <h2>📢 Contribute:</h2>
 <p>Feel free to contribute to this project. Bug reports, feature requests, and pull requests are welcome!</p>
 
